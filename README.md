@@ -14,8 +14,8 @@
 ```javascript
 const raj_singh = {
   pronouns: "he" || "him",
-  code: [Javascript, HTML, CSS, Python, SQL, PHP, NoSQL],
-  tools: [Node, Relational Databases],
+  code: [Javascript, Python, SQL, NoSQL, Java, HTML, CSS, PHP],
+  tools: [NodeJS, Express, MongoDb ],
   learning_habit: true
 }
 
