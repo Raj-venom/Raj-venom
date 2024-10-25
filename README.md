@@ -15,12 +15,15 @@
 const raj_singh = {
   pronouns: "he" || "him",
   code: [Javascript, Python, SQL, NoSQL, Java, HTML, CSS, PHP],
-  tools: [NodeJS, Express, MongoDb ],
+  tools: [Next.js, React, NodeJS, Express, MongoDb, PostgreSQL Prisma, Mongoose, Appwrite],
+  projects: [
+    "Patient Management System",
+    "Video sharing platform backend",
+    "E-commerce backend for clothing",
+    "Course Management System",
+    "Financial tracking app for shops",
+    "Blog Web App with React and Appwrite"
+  ],
+  interests: ["Video Games", "Traveling", "Meditation"],
   learning_habit: true
 }
-
-```
-
-
-
----
